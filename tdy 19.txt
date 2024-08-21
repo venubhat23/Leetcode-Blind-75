@@ -1,0 +1,9 @@
+blind 50 revision(2hr)
+job guru(2hr)
+blind 60 complete(2hr)
+SQL-50 :complete 5 ques(1hr)
+applying jobs(0.5hr)
+javascript(2hr johnas)
+AWS revision(30 min)
+
+
